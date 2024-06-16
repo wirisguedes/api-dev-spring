@@ -1,2 +1,4 @@
-package com.iris.api_dev.domain.model;public class News {
+package com.iris.api_dev.domain.model;
+
+public class News {
 }
